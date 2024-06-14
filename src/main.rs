@@ -1,7 +1,8 @@
 // mod types;
-mod arrays;
+// mod arrays;
+mod pro;
 fn main() {
 
-   arrays::run();
+   pro::run();
 
 }
