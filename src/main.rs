@@ -2,14 +2,15 @@
 // mod arrays;
 // mod pro;
 // mod slicee;
-mod loops;
+// mod loops;
 // mod functions;
 // mod pointers;
-mod structs;
+mod enums;
+// mod structs;
 fn main() {
    // slicee::run();
    // functions::run();
-   loops::run();
+   enums::run();
    // pointers::run();
-   structs::run();
+   // structs::run();
 }
